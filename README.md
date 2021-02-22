@@ -14,8 +14,8 @@ A simple live QR / Barcode reader implemented using Python, opencv2 and pyzbar.
 ## Examples
 Below you can find some examples.
 - **QR Code on a piece of paper**
-<img src="./examples/1.png" alt="iamge not found" width="400">
+<img src="./examples/1.png" alt="iamge not found" width="500">
 
 - **Barcode on a piece of paper**
-<img src="./examples/2.png" alt="iamge not found" width="400">
+<img src="./examples/2.png" alt="iamge not found" width="500">
 
